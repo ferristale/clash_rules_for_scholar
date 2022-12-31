@@ -9,7 +9,7 @@
 
 ## 使用方法
 
-将CFW自带的Parsers修改如下，更新订阅即可
+将CFW自带的`Parsers`修改如下，更新订阅即可
 
 ```yaml
 parsers:
