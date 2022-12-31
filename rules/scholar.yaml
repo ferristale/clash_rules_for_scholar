@@ -1,5 +1,5 @@
 # need to use school rules to do this
-# merge from @nerdneilsfield and ihel1
+# merge from @nerdneilsfield and @ihel1
 payload:
   - DOMAIN-SUFFIX,acm.org
   - DOMAIN-SUFFIX,acpjournals.org
